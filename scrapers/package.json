@@ -1,0 +1,11 @@
+{
+  "name": "prism-scrapers",
+  "version": "1.0.0",
+  "description": "PRISM 대시보드 데이터 스크래퍼",
+  "scripts": {
+    "update": "node scrape_naver_best.js && node scrape_trend.js && node scrape_insight.js && node scrape_competitor.js"
+  },
+  "dependencies": {
+    "node-fetch": "^3.3.2"
+  }
+}

@@ -1,0 +1,120 @@
+{
+  "updated_at": "2026-05-28T18:23:03.805+09:00",
+  "competitors": {
+    "루메나": [
+      {
+        "id": "루메나_snap0",
+        "sponsor": "루메나",
+        "screenshot": "data/google_images/루메나_snap0.png",
+        "link": "https://adstransparency.google.com/advertiser/AR07072609592762056705?region=KR",
+        "snap_type": "page_snapshot"
+      },
+      {
+        "id": "루메나_snap1",
+        "sponsor": "루메나",
+        "screenshot": "data/google_images/루메나_snap1.png",
+        "link": "https://adstransparency.google.com/advertiser/AR07072609592762056705?region=KR",
+        "snap_type": "page_snapshot"
+      },
+      {
+        "id": "루메나_snap2",
+        "sponsor": "루메나",
+        "screenshot": "data/google_images/루메나_snap2.png",
+        "link": "https://adstransparency.google.com/advertiser/AR07072609592762056705?region=KR",
+        "snap_type": "page_snapshot"
+      }
+    ],
+    "카즈미": [
+      {
+        "id": "카즈미_snap0",
+        "sponsor": "카즈미",
+        "screenshot": "data/google_images/카즈미_snap0.png",
+        "link": "https://adstransparency.google.com/advertiser/search?region=KR&query=카즈미",
+        "snap_type": "page_snapshot"
+      },
+      {
+        "id": "카즈미_snap1",
+        "sponsor": "카즈미",
+        "screenshot": "data/google_images/카즈미_snap1.png",
+        "link": "https://adstransparency.google.com/advertiser/search?region=KR&query=카즈미",
+        "snap_type": "page_snapshot"
+      },
+      {
+        "id": "카즈미_snap2",
+        "sponsor": "카즈미",
+        "screenshot": "data/google_images/카즈미_snap2.png",
+        "link": "https://adstransparency.google.com/advertiser/search?region=KR&query=카즈미",
+        "snap_type": "page_snapshot"
+      }
+    ],
+    "크레모아": [
+      {
+        "id": "크레모아_snap0",
+        "sponsor": "크레모아",
+        "screenshot": "data/google_images/크레모아_snap0.png",
+        "link": "https://adstransparency.google.com/advertiser/search?region=KR&query=크레모아",
+        "snap_type": "page_snapshot"
+      },
+      {
+        "id": "크레모아_snap1",
+        "sponsor": "크레모아",
+        "screenshot": "data/google_images/크레모아_snap1.png",
+        "link": "https://adstransparency.google.com/advertiser/search?region=KR&query=크레모아",
+        "snap_type": "page_snapshot"
+      },
+      {
+        "id": "크레모아_snap2",
+        "sponsor": "크레모아",
+        "screenshot": "data/google_images/크레모아_snap2.png",
+        "link": "https://adstransparency.google.com/advertiser/search?region=KR&query=크레모아",
+        "snap_type": "page_snapshot"
+      }
+    ],
+    "브루클린웍스": [
+      {
+        "id": "브루클린웍스_snap0",
+        "sponsor": "브루클린웍스",
+        "screenshot": "data/google_images/브루클린웍스_snap0.png",
+        "link": "https://adstransparency.google.com/advertiser/search?region=KR&query=브루클린웍스",
+        "snap_type": "page_snapshot"
+      },
+      {
+        "id": "브루클린웍스_snap1",
+        "sponsor": "브루클린웍스",
+        "screenshot": "data/google_images/브루클린웍스_snap1.png",
+        "link": "https://adstransparency.google.com/advertiser/search?region=KR&query=브루클린웍스",
+        "snap_type": "page_snapshot"
+      },
+      {
+        "id": "브루클린웍스_snap2",
+        "sponsor": "브루클린웍스",
+        "screenshot": "data/google_images/브루클린웍스_snap2.png",
+        "link": "https://adstransparency.google.com/advertiser/search?region=KR&query=브루클린웍스",
+        "snap_type": "page_snapshot"
+      }
+    ],
+    "카고컨테이너": [
+      {
+        "id": "카고컨테이너_snap0",
+        "sponsor": "카고컨테이너",
+        "screenshot": "data/google_images/카고컨테이너_snap0.png",
+        "link": "https://adstransparency.google.com/advertiser/search?region=KR&query=카고컨테이너",
+        "snap_type": "page_snapshot"
+      },
+      {
+        "id": "카고컨테이너_snap1",
+        "sponsor": "카고컨테이너",
+        "screenshot": "data/google_images/카고컨테이너_snap1.png",
+        "link": "https://adstransparency.google.com/advertiser/search?region=KR&query=카고컨테이너",
+        "snap_type": "page_snapshot"
+      },
+      {
+        "id": "카고컨테이너_snap2",
+        "sponsor": "카고컨테이너",
+        "screenshot": "data/google_images/카고컨테이너_snap2.png",
+        "link": "https://adstransparency.google.com/advertiser/search?region=KR&query=카고컨테이너",
+        "snap_type": "page_snapshot"
+      }
+    ]
+  }
+}

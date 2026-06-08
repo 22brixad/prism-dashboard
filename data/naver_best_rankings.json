@@ -1,0 +1,875 @@
+{
+  "updated_at": "2026-06-08T07:30:07.612+09:00",
+  "date": "2026-06-08",
+  "best_brand": {
+    "weekly": [
+      {
+        "rank": 1,
+        "name": "나이키",
+        "tags": [
+          "나이키운동화",
+          "나이키슬리퍼",
+          "나이키런닝화"
+        ],
+        "logo": "",
+        "status": "STABLE"
+      },
+      {
+        "rank": 2,
+        "name": "삼성",
+        "tags": [
+          "벽걸이에어컨",
+          "삼성창문형에어컨"
+        ],
+        "logo": "https://shop-phinf.pstatic.net/20230524_51/1684911728560keqoD_PNG/Black_png.png",
+        "status": "STABLE"
+      },
+      {
+        "rank": 3,
+        "name": "아디다스",
+        "tags": [
+          "아디다스운동화",
+          "아디다스슬리퍼",
+          "아디다스메리제인"
+        ],
+        "logo": "https://shop-phinf.pstatic.net/20260604_143/1780542151711byElA_PNG/LOGO_130x100_t.png",
+        "status": "STABLE"
+      },
+      {
+        "rank": 4,
+        "name": "신일전자",
+        "tags": [
+          "신일선풍기",
+          "창문형에어컨",
+          "신일서큘레이터"
+        ],
+        "logo": "https://shop-phinf.pstatic.net/20240220_84/1708406602867eJ1vN_PNG/logo_2.png",
+        "status": "STABLE"
+      },
+      {
+        "rank": 5,
+        "name": "크록스",
+        "tags": [
+          "크록스키즈",
+          "크록스발레",
+          "크록스슬리퍼"
+        ],
+        "logo": "https://shop-phinf.pstatic.net/20210914_188/1631603653708lAB0k_PNG/rsz_2019_crocs_logo_black.png",
+        "status": "STABLE"
+      },
+      {
+        "rank": 6,
+        "name": "신지모루",
+        "tags": [
+          "맥세이프카드지갑",
+          "맥세이프그립톡",
+          "휴대용선풍기"
+        ],
+        "logo": "https://shop-phinf.pstatic.net/20250310_277/1741591757886KHPz0_PNG/sinjimoru%28Black_Naver%29_%BB%E7%BA%BB.png",
+        "status": "STABLE"
+      },
+      {
+        "rank": 7,
+        "name": "LG전자",
+        "tags": [
+          "스탠바이미",
+          "미니냉장고",
+          "벽걸이에어컨"
+        ],
+        "logo": "https://shop-phinf.pstatic.net/20230831_28/1693465297415mH708_PNG/naver_300x80.png",
+        "status": "STABLE"
+      },
+      {
+        "rank": 8,
+        "name": "갤럭시",
+        "tags": [
+          "갤럭시s26울트라",
+          "갤럭시s26",
+          "갤럭시워치8"
+        ],
+        "logo": "https://shop-phinf.pstatic.net/20230524_51/1684911728560keqoD_PNG/Black_png.png",
+        "status": "STABLE"
+      },
+      {
+        "rank": 9,
+        "name": "뉴발란스",
+        "tags": [
+          "뉴발란스운동화",
+          "뉴발란스530",
+          "뉴발란스740"
+        ],
+        "logo": "https://shop-phinf.pstatic.net/20220118_295/1642479994577Ymezg_PNG/NB_logo_bk_166x80.png",
+        "status": "STABLE"
+      },
+      {
+        "rank": 10,
+        "name": "노스페이스",
+        "tags": [
+          "노스페이스반팔",
+          "노스페이스모자",
+          "노스페이스바람막이"
+        ],
+        "logo": "https://shop-phinf.pstatic.net/20240110_236/1704867824715QeaO0_PNG/BFCFB7E1A4CB.png",
+        "status": "UP"
+      },
+      {
+        "rank": 11,
+        "name": "이케아",
+        "tags": [
+          "이케아수납장",
+          "이케아책상",
+          "이케아서랍장"
+        ],
+        "logo": "",
+        "status": "DOWN"
+      },
+      {
+        "rank": 12,
+        "name": "K2",
+        "tags": [
+          "k2시원서커",
+          "k2트레킹화",
+          "k2등산화"
+        ],
+        "logo": "https://shop-phinf.pstatic.net/20210930_61/1632967712896Oeb15_PNG/K2_B3D7C0CCB9F6BDBAC5E4BEEE_B7CEB0ED.png",
+        "status": "STABLE"
+      },
+      {
+        "rank": 13,
+        "name": "포켓몬",
+        "tags": [
+          "포켓몬카드",
+          "포켓몬카드박스",
+          "이삭토스트포켓몬뱃지"
+        ],
+        "logo": "https://shop-phinf.pstatic.net/20250224_192/1740358994850TeSq8_PNG/naver_logo.png",
+        "status": "STABLE"
+      },
+      {
+        "rank": 14,
+        "name": "CUCKOO",
+        "tags": [
+          "쿠쿠압력밥솥",
+          "쿠쿠음식물처리기",
+          "쿠쿠밥솥"
+        ],
+        "logo": "http://shop1.phinf.naver.net/20200623_283/1592873484860xEFWw_PNG/cuckoo_logo.png",
+        "status": "STABLE"
+      },
+      {
+        "rank": 15,
+        "name": "현대모비스",
+        "tags": [
+          "요소수",
+          "부동액",
+          "브레이크오일"
+        ],
+        "logo": "https://shop-phinf.pstatic.net/20260507_50/1778119828196uE3L0_PNG/%C4%AB%B7%BA%BD%BA_%B7%CE%B0%ED-%B8%F0%C0%BD.png",
+        "status": "STABLE"
+      },
+      {
+        "rank": 16,
+        "name": "다이소",
+        "tags": [
+          "폼타입크리너",
+          "다이소텀블러",
+          "다이소선풍기"
+        ],
+        "logo": "",
+        "status": "STABLE"
+      },
+      {
+        "rank": 17,
+        "name": "3M",
+        "tags": [
+          "쿨토시",
+          "3m장갑",
+          "3m귀마개"
+        ],
+        "logo": "",
+        "status": "STABLE"
+      },
+      {
+        "rank": 18,
+        "name": "스케쳐스",
+        "tags": [
+          "스케쳐스샌들",
+          "스케쳐스운동화",
+          "스케쳐스슬리퍼"
+        ],
+        "logo": "https://shop-phinf.pstatic.net/20260219_207/1771486892133zqTTo_PNG/%A4%AA%A4%AA.png",
+        "status": "STABLE"
+      },
+      {
+        "rank": 19,
+        "name": "탑텐",
+        "tags": [
+          "탑텐원피스",
+          "탑텐반바지",
+          "탑텐플리츠"
+        ],
+        "logo": "https://shop-phinf.pstatic.net/20211229_28/1640763415496SnAMJ_PNG/topten_logo_b.png",
+        "status": "UP"
+      },
+      {
+        "rank": 20,
+        "name": "Apple",
+        "tags": [
+          "아이폰17",
+          "에어팟프로3",
+          "에어팟4세대"
+        ],
+        "logo": "",
+        "status": "STABLE"
+      }
+    ],
+    "monthly": [
+      {
+        "rank": 1,
+        "name": "나이키",
+        "tags": [
+          "나이키운동화",
+          "나이키슬리퍼",
+          "나이키에어포스"
+        ],
+        "logo": "",
+        "status": "STABLE"
+      },
+      {
+        "rank": 2,
+        "name": "삼성",
+        "tags": [
+          "벽걸이에어컨",
+          "삼성창문형에어컨"
+        ],
+        "logo": "https://shop-phinf.pstatic.net/20230524_51/1684911728560keqoD_PNG/Black_png.png",
+        "status": "STABLE"
+      },
+      {
+        "rank": 3,
+        "name": "아디다스",
+        "tags": [
+          "아디다스운동화",
+          "아디다스슬리퍼",
+          "아디다스삼바"
+        ],
+        "logo": "https://shop-phinf.pstatic.net/20260604_143/1780542151711byElA_PNG/LOGO_130x100_t.png",
+        "status": "STABLE"
+      },
+      {
+        "rank": 4,
+        "name": "신일전자",
+        "tags": [
+          "신일선풍기",
+          "창문형에어컨",
+          "신일서큘레이터"
+        ],
+        "logo": "https://shop-phinf.pstatic.net/20240220_84/1708406602867eJ1vN_PNG/logo_2.png",
+        "status": "UP"
+      },
+      {
+        "rank": 5,
+        "name": "크록스",
+        "tags": [
+          "크록스키즈",
+          "크록스슬리퍼",
+          "크록스발레"
+        ],
+        "logo": "https://shop-phinf.pstatic.net/20210914_188/1631603653708lAB0k_PNG/rsz_2019_crocs_logo_black.png",
+        "status": "DOWN"
+      },
+      {
+        "rank": 6,
+        "name": "신지모루",
+        "tags": [
+          "맥세이프카드지갑",
+          "맥세이프그립톡",
+          "고속충전기"
+        ],
+        "logo": "https://shop-phinf.pstatic.net/20250310_277/1741591757886KHPz0_PNG/sinjimoru%28Black_Naver%29_%BB%E7%BA%BB.png",
+        "status": "STABLE"
+      },
+      {
+        "rank": 7,
+        "name": "갤럭시",
+        "tags": [
+          "갤럭시s26울트라",
+          "갤럭시s26",
+          "갤럭시s25"
+        ],
+        "logo": "https://shop-phinf.pstatic.net/20230524_51/1684911728560keqoD_PNG/Black_png.png",
+        "status": "STABLE"
+      },
+      {
+        "rank": 8,
+        "name": "LG전자",
+        "tags": [
+          "스탠바이미",
+          "미니냉장고",
+          "스텐바이미"
+        ],
+        "logo": "https://shop-phinf.pstatic.net/20230831_28/1693465297415mH708_PNG/naver_300x80.png",
+        "status": "STABLE"
+      },
+      {
+        "rank": 9,
+        "name": "뉴발란스",
+        "tags": [
+          "뉴발란스운동화",
+          "뉴발란스530",
+          "뉴발란스740"
+        ],
+        "logo": "https://shop-phinf.pstatic.net/20220118_295/1642479994577Ymezg_PNG/NB_logo_bk_166x80.png",
+        "status": "STABLE"
+      },
+      {
+        "rank": 10,
+        "name": "노스페이스",
+        "tags": [
+          "노스페이스바람막이",
+          "노스페이스반팔",
+          "노스페이스모자"
+        ],
+        "logo": "https://shop-phinf.pstatic.net/20240110_236/1704867824715QeaO0_PNG/BFCFB7E1A4CB.png",
+        "status": "STABLE"
+      },
+      {
+        "rank": 11,
+        "name": "이케아",
+        "tags": [
+          "이케아수납장",
+          "이케아책상",
+          "이케아서랍장"
+        ],
+        "logo": "",
+        "status": "STABLE"
+      },
+      {
+        "rank": 12,
+        "name": "포켓몬",
+        "tags": [
+          "포켓몬카드",
+          "포켓몬카드박스",
+          "인페르노x"
+        ],
+        "logo": "https://shop-phinf.pstatic.net/20250224_192/1740358994850TeSq8_PNG/naver_logo.png",
+        "status": "STABLE"
+      },
+      {
+        "rank": 13,
+        "name": "CUCKOO",
+        "tags": [
+          "쿠쿠압력밥솥",
+          "쿠쿠음식물처리기",
+          "쿠쿠밥솥"
+        ],
+        "logo": "http://shop1.phinf.naver.net/20200623_283/1592873484860xEFWw_PNG/cuckoo_logo.png",
+        "status": "STABLE"
+      },
+      {
+        "rank": 14,
+        "name": "K2",
+        "tags": [
+          "k2트레킹화",
+          "k2시원서커",
+          "k2등산화"
+        ],
+        "logo": "https://shop-phinf.pstatic.net/20210930_61/1632967712896Oeb15_PNG/K2_B3D7C0CCB9F6BDBAC5E4BEEE_B7CEB0ED.png",
+        "status": "STABLE"
+      },
+      {
+        "rank": 15,
+        "name": "현대모비스",
+        "tags": [
+          "요소수",
+          "요소수10리터",
+          "부동액"
+        ],
+        "logo": "https://shop-phinf.pstatic.net/20260507_50/1778119828196uE3L0_PNG/%C4%AB%B7%BA%BD%BA_%B7%CE%B0%ED-%B8%F0%C0%BD.png",
+        "status": "STABLE"
+      },
+      {
+        "rank": 16,
+        "name": "스타벅스",
+        "tags": [
+          "스타벅스기프티콘",
+          "텀블러"
+        ],
+        "logo": "https://shop-phinf.pstatic.net/20260220_34/1771551432438Hw802_PNG/B7CEB0ED.png",
+        "status": "STABLE"
+      },
+      {
+        "rank": 17,
+        "name": "다이소",
+        "tags": [
+          "다이소바람막이",
+          "폼타입크리너",
+          "다이소텀블러"
+        ],
+        "logo": "",
+        "status": "UP"
+      },
+      {
+        "rank": 18,
+        "name": "3M",
+        "tags": [
+          "3m장갑",
+          "쿨토시",
+          "3m귀마개"
+        ],
+        "logo": "",
+        "status": "UP"
+      },
+      {
+        "rank": 19,
+        "name": "닌텐도",
+        "tags": [
+          "닌텐도스위치2",
+          "스위치2",
+          "친구모아아일랜드"
+        ],
+        "logo": "",
+        "status": "DOWN"
+      },
+      {
+        "rank": 20,
+        "name": "Apple",
+        "tags": [
+          "아이폰17",
+          "에어팟프로3",
+          "에어팟4세대"
+        ],
+        "logo": "",
+        "status": "DOWN"
+      }
+    ]
+  },
+  "best_keyword": {
+    "new_keywords": [],
+    "issue_keywords": [],
+    "popular_keywords": [
+      {
+        "rank": 1,
+        "name": "번역기",
+        "subtitle": "학습기기",
+        "status": "SOAR",
+        "change": 6,
+        "is_new": false
+      },
+      {
+        "rank": 2,
+        "name": "자라",
+        "subtitle": "여성의류",
+        "status": "UP",
+        "change": 1,
+        "is_new": false
+      },
+      {
+        "rank": 3,
+        "name": "유니클로",
+        "subtitle": "여성의류",
+        "status": "DOWN",
+        "change": -2,
+        "is_new": false
+      },
+      {
+        "rank": 4,
+        "name": "탑텐",
+        "subtitle": "여성의류",
+        "status": "DOWN",
+        "change": -2,
+        "is_new": false
+      },
+      {
+        "rank": 5,
+        "name": "캘린더",
+        "subtitle": "문구/사무용품",
+        "status": "SOAR",
+        "change": 34,
+        "is_new": false
+      },
+      {
+        "rank": 6,
+        "name": "룰루레몬",
+        "subtitle": "여성의류",
+        "status": "DOWN",
+        "change": -1,
+        "is_new": false
+      },
+      {
+        "rank": 7,
+        "name": "다트",
+        "subtitle": "수집품",
+        "status": "NEW",
+        "change": 0,
+        "is_new": true
+      },
+      {
+        "rank": 8,
+        "name": "닌텐도스위치2",
+        "subtitle": "게임기/타이틀",
+        "status": "STABLE",
+        "change": 0,
+        "is_new": false
+      },
+      {
+        "rank": 9,
+        "name": "케이스티파이",
+        "subtitle": "휴대폰액세서리",
+        "status": "DOWN",
+        "change": -7,
+        "is_new": false
+      },
+      {
+        "rank": 10,
+        "name": "안나앤모드",
+        "subtitle": "여성의류",
+        "status": "SOAR",
+        "change": 18,
+        "is_new": false
+      },
+      {
+        "rank": 11,
+        "name": "창문형에어컨",
+        "subtitle": "계절가전",
+        "status": "UP",
+        "change": 1,
+        "is_new": false
+      },
+      {
+        "rank": 12,
+        "name": "베니토",
+        "subtitle": "여성의류",
+        "status": "SOAR",
+        "change": 26,
+        "is_new": false
+      },
+      {
+        "rank": 13,
+        "name": "태극기",
+        "subtitle": "문구/사무용품",
+        "status": "SOAR",
+        "change": 40,
+        "is_new": false
+      },
+      {
+        "rank": 14,
+        "name": "아이폰17",
+        "subtitle": "휴대폰",
+        "status": "STABLE",
+        "change": 0,
+        "is_new": false
+      },
+      {
+        "rank": 15,
+        "name": "이력서양식",
+        "subtitle": "문구/사무용품",
+        "status": "NEW",
+        "change": 0,
+        "is_new": true
+      },
+      {
+        "rank": 16,
+        "name": "리린",
+        "subtitle": "여성의류",
+        "status": "SOAR",
+        "change": 13,
+        "is_new": false
+      },
+      {
+        "rank": 17,
+        "name": "벽걸이에어컨",
+        "subtitle": "계절가전",
+        "status": "DOWN",
+        "change": -2,
+        "is_new": false
+      },
+      {
+        "rank": 18,
+        "name": "레고",
+        "subtitle": "완구/인형",
+        "status": "SOAR",
+        "change": 35,
+        "is_new": false
+      },
+      {
+        "rank": 19,
+        "name": "메이블루",
+        "subtitle": "여성의류",
+        "status": "DOWN",
+        "change": -2,
+        "is_new": false
+      },
+      {
+        "rank": 20,
+        "name": "신일선풍기",
+        "subtitle": "계절가전",
+        "status": "DOWN",
+        "change": -5,
+        "is_new": false
+      }
+    ]
+  },
+  "best_product": {
+    "click": [],
+    "buy": []
+  },
+  "categories": {
+    "camping": {
+      "name": "캠핑",
+      "catId": "50000028",
+      "keywords": [
+        {
+          "rank": 1,
+          "name": "헬리녹스",
+          "status": "UP",
+          "sort_type": "KEYWORD_POPULAR"
+        },
+        {
+          "rank": 2,
+          "name": "크레모아",
+          "status": "SOAR",
+          "sort_type": "KEYWORD_POPULAR"
+        },
+        {
+          "rank": 3,
+          "name": "에어텐트",
+          "status": "UP",
+          "sort_type": "KEYWORD_POPULAR"
+        },
+        {
+          "rank": 4,
+          "name": "원터치텐트",
+          "status": "DOWN",
+          "sort_type": "KEYWORD_POPULAR"
+        },
+        {
+          "rank": 5,
+          "name": "스노우라인",
+          "status": "SOAR",
+          "sort_type": "KEYWORD_POPULAR"
+        },
+        {
+          "rank": 6,
+          "name": "차광막",
+          "status": "SOAR",
+          "sort_type": "KEYWORD_POPULAR"
+        },
+        {
+          "rank": 7,
+          "name": "에어매트",
+          "status": "DOWN",
+          "sort_type": "KEYWORD_POPULAR"
+        },
+        {
+          "rank": 8,
+          "name": "쿠디",
+          "status": "DOWN",
+          "sort_type": "KEYWORD_POPULAR"
+        },
+        {
+          "rank": 9,
+          "name": "카고컨테이너",
+          "status": "DOWN",
+          "sort_type": "KEYWORD_POPULAR"
+        },
+        {
+          "rank": 10,
+          "name": "그늘막",
+          "status": "DOWN",
+          "sort_type": "KEYWORD_POPULAR"
+        },
+        {
+          "rank": 11,
+          "name": "스토브",
+          "status": "DOWN",
+          "sort_type": "KEYWORD_POPULAR"
+        },
+        {
+          "rank": 12,
+          "name": "구이바다",
+          "status": "DOWN",
+          "sort_type": "KEYWORD_POPULAR"
+        },
+        {
+          "rank": 13,
+          "name": "igt테이블",
+          "status": "DOWN",
+          "sort_type": "KEYWORD_POPULAR"
+        },
+        {
+          "rank": 14,
+          "name": "바베큐그릴",
+          "status": "DOWN",
+          "sort_type": "KEYWORD_POPULAR"
+        },
+        {
+          "rank": 15,
+          "name": "아이두젠",
+          "status": "DOWN",
+          "sort_type": "KEYWORD_POPULAR"
+        },
+        {
+          "rank": 16,
+          "name": "스토퍼",
+          "status": "DOWN",
+          "sort_type": "KEYWORD_POPULAR"
+        },
+        {
+          "rank": 17,
+          "name": "그리들",
+          "status": "DOWN",
+          "sort_type": "KEYWORD_POPULAR"
+        },
+        {
+          "rank": 18,
+          "name": "캐노피천막",
+          "status": "NEW",
+          "sort_type": "KEYWORD_POPULAR"
+        },
+        {
+          "rank": 19,
+          "name": "방수포",
+          "status": "DOWN",
+          "sort_type": "KEYWORD_POPULAR"
+        },
+        {
+          "rank": 20,
+          "name": "장작",
+          "status": "DOWN",
+          "sort_type": "KEYWORD_POPULAR"
+        }
+      ],
+      "products_click": [],
+      "products_buy": []
+    },
+    "fan": {
+      "name": "계절가전(선풍기)",
+      "catId": "50000212",
+      "keywords": [
+        {
+          "rank": 1,
+          "name": "창문형에어컨",
+          "status": "STABLE",
+          "sort_type": "KEYWORD_POPULAR"
+        },
+        {
+          "rank": 2,
+          "name": "벽걸이에어컨",
+          "status": "DOWN",
+          "sort_type": "KEYWORD_POPULAR"
+        },
+        {
+          "rank": 3,
+          "name": "신일선풍기",
+          "status": "DOWN",
+          "sort_type": "KEYWORD_POPULAR"
+        },
+        {
+          "rank": 4,
+          "name": "루메나선풍기",
+          "status": "DOWN",
+          "sort_type": "KEYWORD_POPULAR"
+        },
+        {
+          "rank": 5,
+          "name": "실링팬",
+          "status": "DOWN",
+          "sort_type": "KEYWORD_POPULAR"
+        },
+        {
+          "rank": 6,
+          "name": "무선선풍기",
+          "status": "UP",
+          "sort_type": "KEYWORD_POPULAR"
+        },
+        {
+          "rank": 7,
+          "name": "탁상용선풍기",
+          "status": "SOAR",
+          "sort_type": "KEYWORD_POPULAR"
+        },
+        {
+          "rank": 8,
+          "name": "휴대용선풍기",
+          "status": "UP",
+          "sort_type": "KEYWORD_POPULAR"
+        },
+        {
+          "rank": 9,
+          "name": "날개없는선풍기",
+          "status": "DOWN",
+          "sort_type": "KEYWORD_POPULAR"
+        },
+        {
+          "rank": 10,
+          "name": "써큘레이터",
+          "status": "DOWN",
+          "sort_type": "KEYWORD_POPULAR"
+        },
+        {
+          "rank": 11,
+          "name": "삼성창문형에어컨",
+          "status": "DOWN",
+          "sort_type": "KEYWORD_POPULAR"
+        },
+        {
+          "rank": 12,
+          "name": "다이슨선풍기",
+          "status": "DOWN",
+          "sort_type": "KEYWORD_POPULAR"
+        },
+        {
+          "rank": 13,
+          "name": "벽걸이선풍기",
+          "status": "UP",
+          "sort_type": "KEYWORD_POPULAR"
+        },
+        {
+          "rank": 14,
+          "name": "lg제습기",
+          "status": "SOAR",
+          "sort_type": "KEYWORD_POPULAR"
+        },
+        {
+          "rank": 15,
+          "name": "위닉스제습기",
+          "status": "SOAR",
+          "sort_type": "KEYWORD_POPULAR"
+        },
+        {
+          "rank": 16,
+          "name": "한일선풍기",
+          "status": "DOWN",
+          "sort_type": "KEYWORD_POPULAR"
+        },
+        {
+          "rank": 17,
+          "name": "신일서큘레이터",
+          "status": "DOWN",
+          "sort_type": "KEYWORD_POPULAR"
+        },
+        {
+          "rank": 18,
+          "name": "시스템에어컨",
+          "status": "DOWN",
+          "sort_type": "KEYWORD_POPULAR"
+        },
+        {
+          "rank": 19,
+          "name": "손풍기",
+          "status": "SOAR",
+          "sort_type": "KEYWORD_POPULAR"
+        },
+        {
+          "rank": 20,
+          "name": "에어컨바람막이",
+          "status": "SOAR",
+          "sort_type": "KEYWORD_POPULAR"
+        }
+      ],
+      "products_click": [],
+      "products_buy": []
+    }
+  }
+}
